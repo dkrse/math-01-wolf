@@ -1,0 +1,30 @@
+# build artefacts
+app-c/build/
+app-python/.venv/
+app-python/__pycache__/
+**/__pycache__/
+*.pyc
+
+# editor / OS
+.ipynb_checkpoints/
+.DS_Store
+*~
+.vscode/
+.idea/
+
+build/
+docs/
+outputs/
+paper/
+/main-cvs-static
+
+
+# LaTeX intermediates
+
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz
+
+
