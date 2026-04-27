@@ -15,7 +15,7 @@ app-python/__pycache__/
 build/
 docs/
 # outputs/
-paper/
+# paper/
 /main-cvs-static
 
 
